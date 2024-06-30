@@ -51,19 +51,19 @@ Make sure you have the following installed on your system:
    yarn install
    ```
 
-### Running the Project
+4. Running the Project
 
-To run the project locally, use the following command:
+   To run the project locally, use the following command:
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
-or
+    or
 
-```bash
-yarn dev
-```
+    ```bash
+    yarn dev
+    ```
 
 Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
